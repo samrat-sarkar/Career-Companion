@@ -99,7 +99,7 @@ Career-Companion/
 ### 2. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/Career-Companion.git
+git clone https://github.com/samrat-sarkar/Career-Companion.git
 cd Career-Companion
 ```
 
