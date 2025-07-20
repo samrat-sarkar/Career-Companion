@@ -116,8 +116,6 @@ No external PHP dependencies are required. Ensure your server supports PHP sessi
 $apiKey = 'YOUR_GEMINI_API_KEY_HERE';
 ```
 
-**Never commit your real API key to a public repository.**
-
 ### 5. **Set Up Assets**
 
 Ensure `bg.gif` and `Google_Gemini.png` are present in the root directory for full UI experience.
