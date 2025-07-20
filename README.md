@@ -154,7 +154,7 @@ Ensure `bg.gif` and `Google_Gemini.png` are present in the root directory for fu
 ## Advantages
 
 - **Truly Personalized:**  
-  Recommendations are based on your real skills, experiences, and aspirations—not generic templates.
+  Recommendations are based on your real skills, experiences, and aspirations not generic templates.
 
 - **Real-Time AI Guidance:**  
   Uses Google Gemini 1.5 Flash for up-to-date, context-aware advice.
